@@ -1,0 +1,25 @@
+Algoritmo "Inscrição"
+
+VAR
+
+nome: caractere
+Cpf: caractere
+RG: inteiro
+Altura: real
+Endereco: caractere
+
+Início
+nome <- "José Almeida da Silva"
+Cpf <- "12345678900"
+RG <- 9517530
+Altura <- 1.78
+Endereco <- "Rua A,380 - Centro - Recife/PE"
+
+
+Escreval (nome)
+Escreval (Cpf)
+Escreval (RG)
+Escreval (Altura)
+Escreval (Endereco)
+
+Fimalgoritmo
